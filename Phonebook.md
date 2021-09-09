@@ -1,2 +1,2 @@
 # Phonebook
-A program that allows the user to enter name and phone number.The program accepts input until ZZZ is entered for name. Output should be each record that contains name and phone number to a file called directory.txt.
+A program that allows you to record and store contacts by entering contact name and phone number. Program also allows user to search for a specific contact if already recorded by searching name of contact. 
